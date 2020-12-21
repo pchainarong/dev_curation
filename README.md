@@ -10,4 +10,4 @@ Index
 Mono-Repo
 ---------
 
--	[Mono-Repo](https://doppelmutzi.github.io/monorepo-lerna-yarn-workspaces/) - Background of NPM and Yarn as well as Lerna
+-	[Mono-Repo](https://doppelmutzi.github.io/monorepo-lerna-yarn-workspaces/){:target="_blank"} - Background of NPM and Yarn as well as Lerna
