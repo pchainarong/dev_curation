@@ -5,11 +5,7 @@ Index
 -----
 
 -	[Mono-Repo](#mono-repo)
--	[Process](#process)
--	[Technology](#technology)
--	[Security](#security)
--	[Tools](#tools)
--	[Misc](#misc)
+
 
 Mono-Repo
 ---------
