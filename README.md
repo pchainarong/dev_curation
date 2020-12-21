@@ -1,2 +1,17 @@
-# dev_curation
-DevOps articles curation
+# DevOps Articles Curation
+A curated list of resources for DevOps
+
+Index
+-----
+
+-	[Mono-Repo](#mono-repo)
+-	[Process](#process)
+-	[Technology](#technology)
+-	[Security](#security)
+-	[Tools](#tools)
+-	[Misc](#misc)
+
+Mono-Repo
+---------
+
+-	[Mono-Repo](https://doppelmutzi.github.io/monorepo-lerna-yarn-workspaces/) - Background of NPM and Yarn as well as Lerna
